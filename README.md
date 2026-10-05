@@ -83,3 +83,5 @@ curl -X POST http://localhost:8888/api/update \
 ***
 ### blog
 
+https://zenn.dev/knaka0209/scraps/dc4dec763571f3
+
